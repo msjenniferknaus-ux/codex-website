@@ -1,0 +1,374 @@
+SLAP OF SUNSHINE
+Brand Deployment Guide
+Editorial standards, typography, color deployment, and contributor guidance
+Purpose
+This guide gives contributors a single source of truth for how Slap of Sunshine should look, feel, and be expressed across website pages, graphics, blog posts, and supporting brand materials.1. Brand Foundation
+Brand Essence
+A warm, editorial, adventure-forward lifestyle and travel brand with a polished, feminine, slightly vintage spirit.
+Mission
+To inspire people to explore life more beautifully through travel, style, atmosphere, discovery, and joy.
+Vision
+To become a trusted digital lifestyle destination that blends elegant travel inspiration with warmth, curiosity, and a sense of possibility.
+Brand Promise
+Slap of Sunshine delivers curated, visually elevated content that feels inspiring, warm, and easy to wander through.
+
+
+
+
+2. Brand Personality & Tone
+Should feel
+• Sunny
+• Editorial
+• Polished
+• Warm
+• Adventure-forward
+• Curated
+• Lightly vintageShould sound
+• Descriptive
+• Elegant
+• Inviting
+• Lightly playful
+• Visually rich
+• Easy to read
+• Confident, not salesy
+3. Typography Standards
+Primary Heading Font
+Playfair Display — use for the logo, homepage hero text, page titles, section headings, and editorial feature headings.
+Primary Paragraph Font
+Open Sans — use for body text, captions, navigation, buttons, and supporting copy.
+Usage Hierarchy
+Logo / WordmarkPlayfair Display Regular or MediumHero / Section HeadingsPlayfair Display RegularParagraphs / UI CopyOpen Sans RegularButtons / NavigationOpen Sans Regular or SemiBold
+
+
+4. Color Standards
+These are the approved brand colors contributors should use when building pages, graphics, social templates, and supporting brand materials. Each swatch includes both the HEX and RGB values for future replication.
+Editorial Gold
+Headings, elegant accents, section titles, editorial emphasis#B8A183
+RGB 184, 161, 131Soft Sand
+Soft backgrounds, cards, neutral panels, breathing space#F3F1ED
+RGB 243, 241, 237Mustard Sunshine
+Sunshine accents, highlights, subtle vintage warmth#C9A227
+RGB 201, 162, 39Deep Warm Brown
+Grounding contrast, richer warmth, alternate heading moments#5A4637
+RGB 90, 70, 55Warm Cream
+Secondary backgrounds, layered sections, softer contrast blocks#F4EDDF
+RGB 244, 237, 223Body Taupe
+Paragraph text, secondary interface copy#857F77
+RGB 133, 127, 119Vintage Marigold
+Supporting sunshine accent, warmer highlight tone#D4A017
+RGB 212, 160, 23Soft Border
+Borders, dividers, outlines, structure lines#E8DFD3
+RGB 232, 223, 211
+5. Deployment Guidance
+Website application
+Use Editorial Gold for major headings and Mustard Sunshine only as a selective accent. Keep Soft Sand and Warm Cream as the dominant background neutrals so pages feel airy and editorial rather than heavy.
+Buttons & interface
+Buttons should feel soft, refined, and lightly vintage, with warm neutral fills and subtle borders. The interface should support the content, not overpower it.
+Photography direction
+Use realistic, sunlit, polished imagery: chic streets, cafés, hotels, city corners, table settings, and elegant travel details. Avoid heavy HDR, neon yellow, or cartoon-like styling.
+Contributor rule
+When creating new materials, start with the approved fonts and choose from the approved palette only. Introduce mustard and marigold as highlights, not dominant background colors.
+6. Brand Deployment Summary
+Slap of Sunshine is a warm, editorial, adventure-forward lifestyle and travel brand that blends elegant storytelling, sunshine-infused visual direction, and curated digital experiences designed to inspire discovery, beauty, and everyday escape.
+Quick Reference
+Heading FontPlayfair DisplayParagraph FontOpen SansPrimary AccentEditorial Gold — #B8A183Sunshine AccentMustard Sunshine — #C9A227Grounding NeutralDeep Warm Brown — #5A4637
+
+
+Logo 
+
+
+Jenn — this is exactly the right move. You’ve built a LOT, and consolidating it into one clean “master brief” will make everything faster, sharper, and way more consistent.
+Below is your FULL HANDOFF DOCUMENT — this is what you copy into a new chat.
+
+?? SLAP OF SUNSHINE — MASTER BUILD + BRAND HANDOFF
+?? INSTRUCTIONS FOR NEW CHAT
+Paste this into a new chat and say:
+“Use this as my full system. Help me build, refine, and execute consistently across my website, content, and brand.”
+
+1. BRAND IDENTITY
+Brand Name
+Slap of Sunshine
+Core Concept
+A modern editorial lifestyle + travel brand that blends:
+* adventure
+* elevated living
+* curated recommendations
+* warmth + sunshine energy
+Brand Feel
+* editorial
+* airy
+* warm
+* elevated
+* calm but adventurous
+* modern vintage
+
+2. LOGO SYSTEM
+Primary Logo
+* “SOS” serif typography
+* includes Morse code line (horizontal only)
+* minimal, elegant, symbolic
+Logo Rules
+* NO full circular Morse anymore
+* NO extra clutter
+* Morse = subtle accent, not dominant
+* Can be used:
+o header
+o footer
+o favicon
+o watermark
+Variations
+* Full: SOS + subtle Morse
+* Minimal: SOS only
+* Micro: Morse line only (design accent)
+
+3. COLOR SYSTEM (CRITICAL)
+Primary Colors
+NameHexUsageEditorial Gold#B8A183headings, accentsSoft Sand#F3F1EDbackgroundsMustard Sunshine#C9A227highlight / CTADeep Warm Brown#5A4637body text
+Supporting Colors
+NameHexWarm Cream#F4EDDFBody Taupe#857F77Vintage Marigold#D4A017Soft Border#E8DFD3
+Color Rules
+* Backgrounds = light, airy
+* Text = brown (NOT black)
+* Gold = elegance (not overused)
+* Mustard = energy (VERY sparing)
+
+4. TYPOGRAPHY
+Headings (PRIMARY)
+Playfair Display (SERIF)
+* elegant
+* editorial
+* slightly spaced
+* used for ALL titles
+
+Body Text
+Open Sans
+* clean
+* readable
+* modern contrast to serif
+
+Rules
+* Never use sans-serif for headings
+* Keep spacing airy
+* Avoid heavy bold everywhere
+
+5. WEBSITE STRUCTURE
+Navigation
+* Home
+* Start Here
+* Travel
+* Self-Care
+* Food
+
+Category Strategy
+Use child categories only for posts.
+Example:
+Travel ? NOT selected
+Instead use:
+* City Guides
+* Weekend Getaways
+* Travel Tips
+
+6. URL + SLUG STRUCTURE
+City Guide
+/travel/city-guides/boston/
+Supporting Posts
+/travel/weekend-getaways/boston-weekend-getaway/
+/travel/food/best-restaurants-boston/
+
+Rule
+* Slugs = clean, lowercase, hyphenated
+* Titles = pretty (not URL format)
+
+7. PAGE TEMPLATE STRUCTURE
+City Guide Template
+Sections
+1. Hero Image
+2. Intro
+3. Best Time to Visit + Know Before You Go (2 column)
+4. Where to Stay
+5. Things to Do
+6. Food & Drink
+7. Spas & Wellness
+8. Divider Sections (signature lines)
+
+Divider Style
+??????????   SECTION TITLE   ??????????
+* thin lines
+* gold or soft border color
+* centered serif text
+
+8. CARD DESIGN SYSTEM
+Each section uses cards:
+Structure
+* Image (top)
+* Small label
+* Title (H3)
+* Description
+* Button
+
+Button Style
+* Rounded (pill)
+* Border: gold
+* Background: soft sand
+* Hover: mustard
+
+9. BLOG POST STRUCTURE
+Example: Weekend Getaway
+Title
+A Weekend Getaway in Boston
+Sections
+* Intro
+* Best Areas to Stay
+* Neighborhood breakdown
+* Hotels Worth Booking
+* Final Thought
+
+SEO (Yoast)
+Focus Keyphrase
+“Weekend getaway Boston”
+Meta Description
+Short, compelling, natural sentence
+
+10. IMAGE STRATEGY
+Style
+* real photography (NOT fake/cartoon)
+* warm lighting
+* editorial
+* lifestyle feel
+Content
+* women traveling
+* cafes
+* streets
+* hotels
+* details
+
+11. WORDPRESS SETUP RULES
+Homepage
+* Static page (not blog feed)
+* Custom layout
+Blog Page
+* Used for post archive
+
+Featured Image
+Used for:
+* hero display
+* previews
+
+Excerpt
+Manual:
+* 1–2 sentences
+* used for previews + SEO
+
+Tags
+Optional:
+* Boston
+* Weekend Travel
+* East Coast
+
+12. NAVIGATION DESIGN
+Style
+* pill buttons
+* rounded
+* outlined
+Spacing
+* padding above/below nav
+* not cramped
+Background
+* white or very light
+* NOT black
+
+13. VISUAL LANGUAGE
+Core Feel
+* sunshine
+* warmth
+* discovery
+* calm luxury
+Avoid
+* clutter
+* harsh contrast
+* overly bold UI
+* cheap-looking visuals
+
+14. BRAND POSITIONING
+This is NOT:
+? a basic blog
+This IS:
+? an editorial lifestyle brand
+? a digital magazine
+? a curated experience
+
+15. WHAT TO BUILD NEXT (PRIORITY)
+1. Boston page (final polish)
+2. 3 supporting Boston posts:
+o Weekend getaway
+o Restaurants
+o Things to do
+3. Link all together
+4. Homepage layout
+5. Navigation cleanup
+
+16. WHAT I NEED FROM NEW CHAT
+Paste this and say:
+“Help me execute this system step-by-step without breaking design consistency. Start with [X].”
+
+?? FINAL OPINION (IMPORTANT)
+Jenn — you are VERY close to something legit.
+The biggest unlock now is:
+?? consistency > creativity
+Don’t reinvent each page
+? reuse your system
+? build fast
+? scale content
+
+If you want, next step I can:
+* build your homepage exact layout
+* or create your next 3 city guides pre-written + structured
+Just tell me ??
+
+
+7. Content Architecture, Taxonomy & Page Nesting SOP
+This section defines the operating rules for slugs, categories, tags, taxonomies, and parent-child page structure so every new section of the site is built consistently and can scale without becoming messy.
+Purpose of structure
+* Use pages for evergreen destinations, major hubs, and index-style content.
+* Use posts for articles, guides, lists, recommendations, seasonal features, and editorial stories.
+* Every new page or post must fit into an existing architecture before it is drafted.
+Core rule
+* Build the site like a publication, not like a pile of individual pages.
+* Hierarchy must be visible in navigation, URL structure, internal links, and the WordPress parent-child page settings.
+* When in doubt, choose the option that makes related content easier to browse.
+Recommended content model
+Content typeUse forExamplesParent pagesMajor site hubs that organize child pages and clustersTravel, Food, Self-Care, Home, AboutChild pagesEvergreen sub-hubs nested under parent pagesTravel / City Guides, Travel / Weekend Getaways, Food / City Food GuidesPostsEditorial articles and searchable content piecesA Weekend in Boston, Best Cafés in Charleston, 10 Chic Hotels in ParisCategoriesPrimary post organization onlyCity Guides, Weekend Getaways, Restaurants, Travel TipsTagsOptional cross-labels for themes, cities, or moodsBoston, East Coast, Girls Trip, Cozy HotelsTaxonomy rules
+* Categories are for broad editorial organization and should be selected deliberately. Do not stack too many categories on a single post.
+* Tags are secondary descriptors only. Use them to connect related content across categories, cities, trip types, moods, or seasons.
+* Pages should not be treated like posts. Evergreen pages should be nested using parent-child page settings, not improvised with tags.
+* Keep taxonomy names reader-friendly. Use title case in the dashboard label, and clean lowercase hyphenated slugs in the URL.
+* Avoid near-duplicate taxonomy terms. Example: choose either “City Guides” or “City Guide,” not both.
+Slug rules
+* Use lowercase only.
+* Use hyphens instead of spaces or underscores.
+* Remove filler words when possible.
+* Keep slugs short, readable, and stable once published.
+* Do not include dates in evergreen URLs unless the content is truly date-bound.
+* Use one canonical naming convention for similar content types.
+Slug pattern examples
+ContentRecommended slugNotesParent page/travel/Top-level site hubChild page/travel/city-guides/Nested under TravelCity guide page/travel/city-guides/boston/Evergreen destination pageWeekend article post/travel/weekend-getaways/boston-weekend-getaway/Editorial post, not a pageRestaurant article post/food/city-guides/best-restaurants-boston/Food cluster contentSelf-care article post/self-care/routines/sunday-reset-routine/Topic + subtype + article slugParent-child page SOP
+1. Create the top-level parent page first. Example: Travel.
+2. Create the sub-page and assign its parent in WordPress. Example: City Guides becomes a child of Travel.
+3. Keep the child page purpose broad enough to hold multiple related entries.
+4. Only create a new child page when it will support a clear cluster of content, not one isolated article.
+5. Link parent pages to their child pages and child pages back to parent hubs so users can wander naturally.
+6. Before publishing, confirm the page slug, parent assignment, menu placement, breadcrumbs if used, and internal linking are all aligned.
+Governance rules for consistency
+AreaRuleWhy it mattersCategories per postUsually 1 primary category, occasionally 2Prevents clutter and keeps archives meaningfulTags per postUse only relevant tags, generally 3-8 maximumImproves cross-linking without creating noiseNew taxonomy creationDo not create new categories or tags casuallyAvoids duplication and fragmented archivesPage nestingNest pages only when a real parent-child relationship existsKeeps the site understandable to users and search enginesSlug edits after publishingAvoid changing published slugs unless necessaryProtects SEO and prevents broken linksNaming consistencyMatch terminology across menus, categories, page titles, and slugsCreates a polished editorial systemContent placement decision rule
+* If the content is evergreen and acts like a hub, make it a page.
+* If the content is an article, list, guide, or feature, make it a post.
+* If the content should live under a broader section permanently, assign a parent page.
+* If the content only needs topical labeling, use categories and tags rather than page nesting.
+Starter taxonomy recommendation for Slap of Sunshine
+* Parent pages: Home, Start Here, Travel, Food, Self-Care, Home & Garden, About.
+* Travel child pages: City Guides, Weekend Getaways, Travel Tips, Hotels, Things to Do.
+* Food child pages or categories: City Food Guides, Restaurants, Cafés, Brunch, Bars & Drinks.
+* Self-Care child pages or categories: Routines, Wellness Escapes, Beauty, Reflection, Reset Guides.
+* Tags: city names, region names, trip styles, seasonal themes, mood descriptors, and recurring brand themes.
+Editorial rule of thumb
+Do not create content first and figure out its place later. Assign every item its structural home before writing, designing, or publishing it.
