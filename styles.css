@@ -19,7 +19,8 @@
 body {
   margin: 0;
   font-family: "Open Sans", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-  background: var(--soft-sand);
+  background: radial-gradient(circle at 8% -8%, rgba(212, 160, 23, 0.18), transparent 28%),
+    radial-gradient(circle at 92% 0%, rgba(201, 162, 39, 0.16), transparent 24%), var(--soft-sand);
   color: var(--deep-warm-brown);
   line-height: 1.7;
 }
@@ -90,6 +91,11 @@ a {
   padding: 4rem 0;
 }
 
+.hero {
+  position: relative;
+  overflow: hidden;
+}
+
 .hero-grid,
 .split {
   display: grid;
@@ -128,6 +134,12 @@ h1 {
   border-radius: var(--radius);
   box-shadow: var(--shadow);
   padding: 1.2rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 34px rgba(90, 70, 55, 0.12);
 }
 
 .card-label {
@@ -167,7 +179,7 @@ h1 {
 }
 
 .alt-bg {
-  background: var(--warm-cream);
+  background: linear-gradient(180deg, rgba(244, 237, 223, 0.9), rgba(243, 241, 237, 0.95));
 }
 
 .divider {
@@ -221,6 +233,40 @@ h1 {
   padding: 2.3rem 0;
   border-top: 1px solid var(--soft-border);
   background: var(--soft-sand);
+}
+
+.happy-note {
+  margin-bottom: 0;
+  color: var(--body-taupe);
+  font-style: italic;
+}
+
+.section-footnote {
+  margin: 1rem 0 0;
+  color: var(--body-taupe);
+}
+
+.glow {
+  position: absolute;
+  border-radius: 999px;
+  pointer-events: none;
+  z-index: -1;
+}
+
+.glow-one {
+  width: 280px;
+  height: 280px;
+  top: -120px;
+  right: -120px;
+  background: radial-gradient(circle, rgba(201, 162, 39, 0.3) 0%, rgba(201, 162, 39, 0) 70%);
+}
+
+.glow-two {
+  width: 220px;
+  height: 220px;
+  bottom: -110px;
+  left: -100px;
+  background: radial-gradient(circle, rgba(184, 161, 131, 0.24) 0%, rgba(184, 161, 131, 0) 70%);
 }
 
 .footer-wrap {
