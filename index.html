@@ -3,16 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Slap of Sunshine Landing Page</title>
+    <title>Slap of Sunshine | Editorial Travel & Lifestyle</title>
     <meta
       name="description"
-      content="A bright, playful static website with a sunshine-forward vibe."
-
+      content="Slap of Sunshine is a warm, editorial travel and lifestyle destination for curated city guides, self-care ideas, and food discoveries."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;700&family=Inter:wght@400;600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&family=Playfair+Display:wght@400;500;600&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="styles.css" />
@@ -20,13 +19,14 @@
   <body>
     <header class="site-header">
       <div class="container nav-wrap">
-        <a class="brand" href="index.html">Slap of <span>Sunshine</span></a>
-        <nav>
+        <a class="brand" href="index.html">Slap of Sunshine</a>
+        <nav aria-label="Primary">
           <ul class="nav-links">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About</a></li>
-            <li><a href="#experiences">Experiences</a></li>
-            <li><a href="#contact">Contact</a></li>
+            <li><a href="index.html" aria-current="page">Home</a></li>
+            <li><a href="about.html">Start Here</a></li>
+            <li><a href="#travel">Travel</a></li>
+            <li><a href="#self-care">Self-Care</a></li>
+            <li><a href="#food">Food</a></li>
           </ul>
         </nav>
       </div>
@@ -34,78 +34,105 @@
 
     <main>
       <section class="hero">
-        <div class="sun sun-one" aria-hidden="true"></div>
-        <div class="sun sun-two" aria-hidden="true"></div>
         <div class="container hero-grid">
           <div>
-            <p class="eyebrow">Bold • Colorful • Feel-good</p>
-            <h1>Bring bright energy to your corner of the internet</h1>
+            <p class="eyebrow">Warm • Editorial • Adventure-forward</p>
+            <h1>Explore life more beautifully.</h1>
             <p class="hero-copy">
-              This static template captures a playful, sunshine-forward vibe with soft
-              gradients, punchy colors, and a friendly layout that works on desktop and
-              mobile.
+              Slap of Sunshine blends elegant travel inspiration with welcoming stories,
+              curated recommendations, and sunshine-infused visual direction.
             </p>
             <div class="cta-row">
-              <a href="#contact" class="btn btn-primary">Get in Touch</a>
-              <a href="about.html" class="btn btn-secondary">Read About</a>
+              <a href="#travel" class="btn">Read City Guides</a>
+              <a href="about.html" class="btn btn-accent">Start Here</a>
             </div>
           </div>
-          <div class="card card-highlight">
-            <h2>Sunshine Checklist</h2>
-            <ul>
-              <li>Warm color system</li>
-              <li>Rounded, cheerful UI</li>
-              <li>Friendly tone + clear CTAs</li>
-              <li>Simple static deployment</li>
-            </ul>
-          </div>
+          <article class="card">
+            <p class="card-label">Brand Promise</p>
+            <h2>Curated experiences that are easy to wander through</h2>
+            <p>
+              Every page is designed to feel polished, warm, and visually elevated while
+              staying simple to read and useful for planning real trips.
+            </p>
+          </article>
         </div>
       </section>
 
-      <section id="experiences" class="section alt-bg">
+      <section class="section alt-bg" id="travel">
         <div class="container">
-          <h2>Featured experiences</h2>
+          <div class="divider" role="presentation"><span>Travel</span></div>
+          <h2 class="section-title">Featured City Guides</h2>
           <div class="feature-grid">
             <article class="card feature">
-              <h3>Sunrise Pop-up</h3>
-              <p>Morning community meetup with music, movement, and breakfast bites.</p>
+              <p class="card-label">City Guides</p>
+              <h3>Boston in Soft Golden Light</h3>
+              <p>Where to stay, what to book, and the corners worth slowing down for.</p>
+              <a class="btn" href="#">View Guide</a>
             </article>
             <article class="card feature">
-              <h3>Creative Workshops</h3>
-              <p>Hands-on sessions centered around joy, color, and storytelling.</p>
+              <p class="card-label">Weekend Getaways</p>
+              <h3>A Chic Weekend in Charleston</h3>
+              <p>Polished hotels, charming streets, and effortless plans for two days.</p>
+              <a class="btn" href="#">Read Itinerary</a>
             </article>
             <article class="card feature">
-              <h3>Golden Hour Social</h3>
-              <p>A vibrant evening gathering with local makers and live performances.</p>
+              <p class="card-label">Travel Tips</p>
+              <h3>Know Before You Go</h3>
+              <p>Simple, confidence-boosting planning notes for smoother city escapes.</p>
+              <a class="btn" href="#">Get Tips</a>
             </article>
           </div>
         </div>
       </section>
 
-      <section class="section">
+      <section class="section" id="self-care">
         <div class="container">
-          <h2>Snapshot gallery</h2>
+          <div class="divider" role="presentation"><span>Self-Care</span></div>
+          <h2 class="section-title">Spas, Wellness, and Slow Moments</h2>
+          <div class="feature-grid">
+            <article class="card feature">
+              <p class="card-label">Wellness Finds</p>
+              <h3>Hotel Spa Rituals to Try</h3>
+              <p>Beautiful resets for in-between travel days and everyday routines.</p>
+              <a class="btn" href="#">Explore</a>
+            </article>
+            <article class="card feature">
+              <p class="card-label">Atmosphere</p>
+              <h3>Create a Sunlit Morning</h3>
+              <p>Music, textures, and table details that make home feel like a boutique stay.</p>
+              <a class="btn" href="#">Read More</a>
+            </article>
+            <article class="card feature">
+              <p class="card-label">Editorial Picks</p>
+              <h3>Beauty + Travel Essentials</h3>
+              <p>Refined essentials selected for light packing and polished days.</p>
+              <a class="btn" href="#">Shop Notes</a>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <section class="section alt-bg" id="food">
+        <div class="container">
+          <div class="divider" role="presentation"><span>Food & Drink</span></div>
+          <h2 class="section-title">Tasteful Stops Worth Saving</h2>
           <div class="gallery">
-            <div class="tile">Photo 01</div>
-            <div class="tile">Photo 02</div>
-            <div class="tile">Photo 03</div>
-            <div class="tile">Photo 04</div>
+            <div class="tile">Cafe Terraces</div>
+            <div class="tile">Brunch Tables</div>
+            <div class="tile">Dinner Corners</div>
+            <div class="tile">Local Markets</div>
           </div>
         </div>
       </section>
     </main>
 
-    <footer id="contact" class="site-footer">
+    <footer class="site-footer">
       <div class="container footer-wrap">
         <div>
           <h2>Stay in the sunshine loop</h2>
-          <p>hello@yourbrand.com</p>
+          <p>hello@slapofsunshine.com</p>
         </div>
-        <form class="signup" action="#" method="post">
-          <label for="email" class="sr-only">Email</label>
-          <input id="email" type="email" placeholder="Email address" required />
-          <button type="submit" class="btn btn-primary">Subscribe</button>
-        </form>
+        <a href="about.html" class="btn btn-accent">Meet the Brand</a>
       </div>
     </footer>
   </body>
